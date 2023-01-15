@@ -1,0 +1,51 @@
+.jumbotron {
+    margin-top: 19px;
+    background-color: rgba(0, 231, 12, 0.158);
+    background-image:url(https://i.pinimg.com/564x/e3/1f/dc/e31fdcb921fa62efac61ed02a93f4d0d.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat
+    
+}
+
+#header {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+#about {
+    padding-top: 10rem;
+    padding-bottom: 7rem;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+    padding-top: 10rem;
+    padding-bottom: 20rem;
+}
+
+#footer {
+    padding-top: 10rem;
+    padding-bottom: 4rem;
+}
+
+.contact {
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+}
+
+.nama{
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+}
+
+.email{
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+}
+
+.pesan{
+    padding-top: 3rem;
+    padding-bottom: 8rem;
+}
